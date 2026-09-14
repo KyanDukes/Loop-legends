@@ -53,3 +53,11 @@ Building Loop Legends helped me gain experience with:
 ## Screenshots
 
 Screenshots and gameplay previews coming soon.
+
+
+https://github.com/user-attachments/assets/41293781-c52d-492e-b92c-543d7c683fc0<img width="1919" height="1079" alt="game5" src="https://github.com/user-attachments/assets/7344cf90-2f0b-4674-9f84-8ca4101a2541" />
+<img width="1919" height="1079" alt="game38" src="https://github.com/user-attachments/assets/d7683ae5-6f47-48da-8a28-b29b59694998" />
+<img width="1919" height="1079" alt="game2" src="https://github.com/user-attachments/assets/28599f69-32a7-4da4-a404-43541409bf72" />
+<img width="1916" height="1079" alt="game1" src="https://github.com/user-attachments/assets/4415cac8-b446-47ce-b2c6-86d8018bcfaa" />
+
+
