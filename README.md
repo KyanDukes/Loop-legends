@@ -50,9 +50,7 @@ Building Loop Legends helped me gain experience with:
 - Debugging complex application behavior
 - Building custom interactive tools
 
-## Screenshots
-
-Screenshots and gameplay previews coming soon.
+## Screenshots + Video
 
 
 https://github.com/user-attachments/assets/41293781-c52d-492e-b92c-543d7c683fc0<img width="1919" height="1079" alt="game5" src="https://github.com/user-attachments/assets/7344cf90-2f0b-4674-9f84-8ca4101a2541" />
